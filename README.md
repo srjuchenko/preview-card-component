@@ -12,3 +12,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Screenshot
 ![image](https://user-images.githubusercontent.com/76474133/193833029-c82f117d-32e6-4a30-9e88-6698f48c6916.png)
+
+### Hover
+![image](https://user-images.githubusercontent.com/76474133/193833297-18f0a56d-95ce-4cf1-a3a2-9f0b9f24e2e2.png)
